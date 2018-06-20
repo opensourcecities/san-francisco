@@ -1,4 +1,4 @@
-# Open Source San Francisco
+# Open Source San Francisco [![Build Status](https://travis-ci.org/opensourcecities/san-francisco.svg?branch=master)](https://travis-ci.org/opensourcecities/san-francisco)
 
 > A directory of companies, people, and projects that are Open Source and from San Francisco
 

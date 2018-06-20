@@ -1,0 +1,26 @@
+# Travis CI
+language: ruby
+
+rvm:
+  - 2.2
+
+before_script:
+  - gem install awesome_bot
+  - gem install danger
+  - gem install bunto
+  - gem install jekyll
+
+script:
+  - jekyll build
+
+notifications:
+  email: false
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  local_dir: _site
+  keep-history: true
+  on:
+    branch: master
