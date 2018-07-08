@@ -33,6 +33,7 @@ These projects have been developed mainly in <city>, or by people from there.
 ## GitHub Organizations
 
 - [GitHub](https://github.com/github) - GitHub, Inc.
+- [Google](https://github.com/google) - GitHub LLC.
 
 ## Users with Open Source projects
 
