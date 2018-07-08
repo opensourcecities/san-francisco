@@ -32,6 +32,7 @@ These projects have been developed mainly in <city>, or by people from there.
 
 ## GitHub Organizations
 
+- [Apple](https://github.com/apple) - Apple, Inc.
 - [GitHub](https://github.com/github) - GitHub, Inc.
 - [Google](https://github.com/google) - GitHub LLC.
 
